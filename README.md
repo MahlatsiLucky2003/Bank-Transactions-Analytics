@@ -1,4 +1,4 @@
-# Bank Transactions Analytics & Reporting Solution
+# Bank Transactions Analytics
 
 ## Project Overview
 An end-to-end banking data and business intelligence solution built with the Microsoft BI suite. It takes raw operational banking data, turns it into structured analytics, models key business metrics, and delivers visual dashboards alongside formal operational reports.
