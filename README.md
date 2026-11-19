@@ -31,7 +31,7 @@ Helps operations teams monitor activity across branches and service channels, ma
 ## Fee Revenue & Transactions Audit
 Supports financial oversight and reconciliation by breaking down transaction counts, volumes, and fee revenue across branches and transaction types, paired with formal monthly settlement statements.
 
-![Fee Revenue & Transactions Audit Dashboard](images/fee_revenue_audit.png)
+![Fee Revenue & Transactions Audit Dashboard](images/fee_revenue.png)
 
 ## Tasks & Activities
 * **Data Warehousing:** Designed a structured reporting warehouse to organize historical banking data for fast, reliable analysis.
